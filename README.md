@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kazzyl
 - 👀 A seasoned data analyst with 5 years of experience 
 - 🌱 In helping businesses to make informed decision 
-my expertise in predictive analysis,forecasting and identify pattern and trends has been an instrument in unlocking actionable insh
+my expertise in predictive analysis,forecasting and identify pattern and trends has been an instrument in unlocking actionable insight 
 - 📫 Reach out to me to drive your business growth.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
